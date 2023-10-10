@@ -28,9 +28,9 @@ public class Variables : MonoBehaviour
         // Declaring local variables 
         float horizontalInput = Input.GetAxis("Horizontal");
     }
-    {
+    
 
-    }
+    
     
 }
 
